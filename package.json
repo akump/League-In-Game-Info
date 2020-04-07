@@ -1,0 +1,16 @@
+{
+  "name": "league",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "leagueapiwrapper": "^2.0.5",
+    "node-fetch": "^2.6.0"
+  }
+}
