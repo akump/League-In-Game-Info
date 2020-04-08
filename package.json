@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node main.js"
+    "start": "node main.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ascii-table": "0.0.9",
     "dotenv": "^8.2.0",
-    "leagueapiwrapper": "^2.0.5",
     "node-fetch": "^2.6.0"
   }
 }
